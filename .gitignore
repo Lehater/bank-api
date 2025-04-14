@@ -1,0 +1,4 @@
+.vscode/
+
+bin/\n*.env\n*.log
+.env
